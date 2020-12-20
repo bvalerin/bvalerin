@@ -1,9 +1,9 @@
 <h2 align="center">Hey, you are welcome. 👋🤓</h2>
 
 <p align='center'>
-<a href="https://twitter.com/bryan_valerin"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/bryan.valerin"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bryan-valerin-gazo-46446bab/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a target="_blank" href="https://twitter.com/bryan_valerin"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://www.instagram.com/bryan.valerin"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/bryan-valerin-gazo-46446bab/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 
@@ -13,7 +13,7 @@ I'm currently working on my company and other projects.
 
 When I'm not developing and building things, you can find me on Youtube or Udemy learning new stuff, watching anime or riding my bike.</p>
 
-<em><p align="center"><a href="https://bvalerin.com">My Personal Website</a></p></em>
+<em><p align="center"><a target="_blank" href="https://bvalerin.com">My Personal Website</a></p></em>
 <p>
 
 </p>
