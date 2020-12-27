@@ -22,6 +22,11 @@ When I'm not developing and building things, you can find me on Youtube or Udemy
 - [Asystec: Founder and Consultant](https://asysteccr.com) 💼 
 - [Open World: Freelance](https://bvalerin.com)
 
+### 📖 Current knowledge
+- HTML, CSS, Javascript
+- PHP, Codeigniter, Laravel
+- AWS Infraestruture( Lighsail , S3)
+
 ### 📖 What am currently learning
 - Javascript programming(React, Express, PWA)
 - Backend on Python, GraphQL
